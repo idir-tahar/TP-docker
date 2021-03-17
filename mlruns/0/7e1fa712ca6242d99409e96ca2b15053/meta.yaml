@@ -1,0 +1,15 @@
+artifact_uri: file:///__w/TP-docker/TP-docker/mlruns/0/7e1fa712ca6242d99409e96ca2b15053/artifacts
+end_time: 1615943947008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 7e1fa712ca6242d99409e96ca2b15053
+run_uuid: 7e1fa712ca6242d99409e96ca2b15053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1615943946986
+status: 3
+tags: []
+user_id: root
